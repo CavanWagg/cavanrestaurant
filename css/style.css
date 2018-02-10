@@ -1,0 +1,18 @@
+/*
+primary: #f44336
+p-light: #ff7961
+p-dark: #ba000d
+secondary: #8c9eff
+s-light: #c0cfff
+s-dark: #5870cb
+
+
+*/
+body {
+ background-color: #f44336;
+
+}
+h1,
+h2 {
+    font-family: 'Poppins', sans-serif;
+}
