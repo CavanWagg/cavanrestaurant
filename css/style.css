@@ -5,14 +5,37 @@ p-dark: #ba000d
 secondary: #8c9eff
 s-light: #c0cfff
 s-dark: #5870cb
-
-
 */
+/* global styles */
 body {
  background-color: #f44336;
 
 }
 h1,
 h2 {
+    text-align: center;
     font-family: 'Poppins', sans-serif;
+}
+h1 {
+    font-size: 48px;
+}
+li {
+    display: inline-block;
+
+}
+a {
+    font-size: 36px;
+}
+
+/* header */
+header li {
+    margin: 0 10px;
+}
+
+header li:first-of-type {
+    margin-left: 0;
+}
+/* footer styles */
+footer a {
+    font-size: 64px;
 }
